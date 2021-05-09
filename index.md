@@ -27,9 +27,9 @@ classes: wide
 
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | Inexistente |  *[Repositorio](https://github.com/opencitydata/transporte-accidentalidad-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accidentalidad-trafico/issues)*   | Información de accidentes de tráfico de los años 2013, agrupada por distintos conceptos.  |  |  |  |  |    |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente |  *[Repositorio](https://github.com/opencitydata/transporte-accidentalidad-trafico)*  |  *[Generar issue](https://github.com/opencitydata/transporte-accidentalidad-trafico/issues)*   | Información de accidentes de tráfico de los años 2013, agrupada por distintos conceptos.  | 
  
  
   
